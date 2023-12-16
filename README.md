@@ -12,6 +12,6 @@ Daniele Palossi<sup>1,2</sup>
 
 ### Experimental results video
 
-<a href="https://youtu.be/C3gEYF544gU">
+<a href="https://youtu.be/z0VNqoLw2lo">
   <img src="images/video_cover.png" alt="Experimental results video" width="800">  
 </a>
